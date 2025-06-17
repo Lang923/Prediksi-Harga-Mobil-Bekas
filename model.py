@@ -532,7 +532,7 @@ elif selected_menu == "🔍 Prediksi":
     with col3:
         warna = st.selectbox("🎨 Warna", model_to_warna.get(model_mobil, ['Hitam']))
         jenis = st.text_input("📋 Jenis", value=model_to_jenis.get(model_mobil, 'MPV'), disabled=True)
-        kilometer = st.slider("🛣️ Kilometer", 1, 150000, 50000, step=1000)
+        kilometer = st.number_input("🛣️ Kilometer", 1, 150000, 50000, step=1000)
     
     st.markdown('</div>', unsafe_allow_html=True)
     
