@@ -212,7 +212,7 @@ if selected_menu == "🏠 Beranda":
         <div class="feature-card">
             <h3>🔥 Fitur Unggulan:</h3>
             <ul>
-                <li>📊 <strong>Prediksi Akurat</strong> – Menggunakan algoritma machine learning terdepan</li>
+                <li>📊 <strong>Prediksi Akurat</strong> – Menggunakan algoritma machine learning</li>
                 <li>📈 <strong>Visualisasi Data</strong> – Grafik interaktif untuk analisis pasar</li>
                 <li>⚡ <strong>Interface Modern</strong> – Tampilan responsif dan user-friendly</li>
                 <li>🎯 <strong>Multi-Platform</strong> – Dapat diakses di berbagai perangkat</li>
